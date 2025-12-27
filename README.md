@@ -1,5 +1,5 @@
 # Simple Python ATM System
-A CLI-based ATM application featuring persistent data storage and secure PIN handling. Educational Project.
+A CLI-based ATM application featuring persistent data storage and secure PIN handling. **Educational Project**
 
 ### Features
 - **Account Management**: Create and delete accounts with unique 4-digit IDs.
